@@ -1,6 +1,6 @@
 import requests
 
-url = "http://192.168.1.1/html/login.cgi"
+url = "http://192.168.1.1/html/login.html"
 
 username = input("Masukkan username: ")
 password = input("Masukkan password: ")
